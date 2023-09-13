@@ -1,13 +1,52 @@
-### Hi there 👋, I am Santito
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div align="center">
+<img src="hsantitoimage" align="center" style="width: 100%" />
+</div>  
+  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### <div align="center">Hi there 👋, I'm Santito</div>  
+  
+<br/>  
 
-- 🔭 I’m currently working on this page. 
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/san-tito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](santito.dev)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=san-tito)  
+</td><td valign="top" width="33%">
 
-![Profile views](https://gpvc.arturio.dev/san-tito)  
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/San-tito" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/santito" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/santito" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://streak-stats.demolab.com/?user=san-tito" align="center" /></div>  
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=San-tito&&style=flat-square" align="center" />
+</div>  
